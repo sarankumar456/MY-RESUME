@@ -4,8 +4,8 @@ A clean and simple **resume website** built using **HTML and CSS**.
 This site highlights my profile, skills, education, work experience, and contact information.
 
 ## 🌐 Live Demo
-👉 [View Live](https://yourusername.github.io/my-resume)  
-*(Replace the link with your GitHub Pages URL)*
+👉 [View Live](https://dapper-daifuku-b46072.netlify.app/)  
+
 
 ---
 
